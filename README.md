@@ -31,7 +31,7 @@ Both institutions are consistently ranked among the top cancer centers in the Un
 
 ---
 
-## /: Key Metrics
+## Key Metrics
 
 ### What is Lung Wedge Resection with VATS?
 A minimally invasive surgical procedure to remove a small, wedge-shaped portion of lung tissue containing a tumor or abnormal tissue. VATS (Video-Assisted Thoracoscopic Surgery) uses small incisions and a camera, resulting in:
