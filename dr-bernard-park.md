@@ -20,11 +20,11 @@
 
 ### Medical Education
 
-- **Undergraduate**: Johns Hopkins University
-- **Medical Degree**: Yale School of Medicine
-- **General Surgery Residency**: New York Presbyterian-Weill Cornell
-- **Cardiothoracic Surgery Fellowship**: Memorial Sloan Kettering Cancer Center
-- **Advanced Fellowship**: Minimally Invasive Thoracic Surgery, MSK
+- **Undergraduate**: BS, Chemistry, Georgetown University [¹]
+- **Medical Degree**: University of Pennsylvania School of Medicine [¹]
+- **General Surgery Residency**: New York Presbyterian-Weill Cornell [¹]
+- **Thoracic Surgery Fellowship**: Mayo Clinic [¹]
+- **Thoracic Surgery Fellowship**: Memorial Sloan Kettering Cancer Center [¹]
 
 ### Board Certifications
 
