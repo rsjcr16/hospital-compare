@@ -5,7 +5,7 @@
 
 ## Executive Summary
 
-This document compares two premier cancer treatment centers for patients considering lung wedge resection with VATS:
+This document compares two premier cancer treatment centers for patients considering lung wedge resection with VATS. This information was compiled from publically avaialble information on the internet with the assistance of AI. The data has not been checked for hollucinations but is assumed accurate. The onus is with the reader to confirm using the provided citations.
 - **Memorial Sloan Kettering Cancer Center (MSK)** - New York, NY
 - **MD Anderson Cancer Center** - Houston, TX
 
